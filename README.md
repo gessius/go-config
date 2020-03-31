@@ -1,1 +1,1 @@
-# go-config
+# tendermint-go-config
