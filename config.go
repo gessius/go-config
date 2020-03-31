@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/BurntSushi/toml"
-	. "github.com/tendermint/go-common"
+	. "github.com/intfoundation/go-common"
 )
 
 type Config interface {

@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/BurntSushi/toml"
-	. "github.com/tendermint/go-common"
+	. "github.com/intfoundation/go-common"
 )
 
 var (
